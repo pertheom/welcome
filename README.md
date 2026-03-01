@@ -1,3 +1,5 @@
 # Welcome to Pertheom's Github Organization
 If you haven't read the Welcome to Pertheom doc yet, please do so at:
 [Welcome to Pertheom](https://docs.google.com/document/d/1zrnRZS0gZGtLDQEYUucTDnhEjLySKOZ3L4k0bNAzIu0/edit?usp=sharing)
+
+[Project Board](https://github.com/orgs/pertheom/projects/2)
